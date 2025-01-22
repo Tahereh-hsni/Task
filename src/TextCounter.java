@@ -16,5 +16,4 @@ public class TextCounter {
     public int getNumberOfRow(){
         return numberOfRow;
     }
-
 }
